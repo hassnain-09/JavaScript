@@ -24,6 +24,7 @@ let state
 // NaN => Not a Number, but it is a number type
 // object
 
+//Typeof operator
 console.log(typeof undefined) // type is  undefined . So, this mean undefined is a type
 console.log(typeof 3) // type is number
 console.log(typeof "Hassnain") // type is string
