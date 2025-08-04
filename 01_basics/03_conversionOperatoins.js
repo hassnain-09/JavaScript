@@ -22,7 +22,7 @@ let isLoggedIn = undefined
 let booleanIsLoggedIn = Boolean(isLoggedIn)
 // console.log(booleanIsLoggedIn)
 
-// *********************** Type Conversion by String ***********************
+// *********************** Type Conversion by Boolean ***********************
 // 1 => true;
 //  0 => false
 // "" => false
@@ -59,7 +59,7 @@ let str3 = str1 + str2
 // console.log("1" + 2);
 // console.log(1 + "2");
 // console.log("1" + 2 + 2);
-// console.log(1 + 2 + "2");
+console.log(1 + 2 + "2")
 
 // console.log( (3 + 4) * 5 % 3);
 
